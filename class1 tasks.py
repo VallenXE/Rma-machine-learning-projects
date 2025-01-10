@@ -1,3 +1,4 @@
+# Make a code that calculates volume of sphere, area of triangle and make changes into the class project 3 in 1 task.
 
 from random import randint
 from time import time
